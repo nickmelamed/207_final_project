@@ -6,9 +6,9 @@ The image and derived feature datasets (as separate folders) are included in thi
 
 ## Analysis
 
-`LogReg_FFNN.ipynb`: Logistic Regression, FFNN
-`<INSERT_SUVASS_FILE>.ipynb`: Random Forest, XGBoost 
-`<INSERT_STEPH_FILE>.ipynb`: CNN 
+`LogReg_FFNN.ipynb`: Logistic Regression, FFNN <br/>
+`<INSERT_SUVASS_FILE>.ipynb`: Random Forest, XGBoost <br/>
+`<INSERT_STEPH_FILE>.ipynb`: CNN <br/>
 
 ## Presentation: 
 
